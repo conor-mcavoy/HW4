@@ -1,0 +1,6 @@
+.idea/
+*.py
+*.docx
+*.xlsx
+*.txt
+tests/
