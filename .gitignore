@@ -4,3 +4,4 @@
 *.xlsx
 *.txt
 tests/
+!README.md
